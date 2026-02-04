@@ -26,6 +26,7 @@ class AboutMe:
         "ml": ["Scikit-Learn", "PyTorch", "TensorFlow", "MLflow"],
         "cloud_devops": ["AWS", "Docker", "Terraform", "Ansible"]
     }
+```
 🌍 Leadership & Community
 	•	Vice Ambassador & Project Lead — Huawei Student Developers
 	•	Organization Team Member — Google Developer Groups on Campus Haliç
