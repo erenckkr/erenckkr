@@ -24,11 +24,8 @@ class AboutMe:
         "ml": ["Scikit-Learn", "PyTorch", "TensorFlow", "MLflow"],
         "cloud_devops": ["AWS", "Docker", "Terraform", "Ansible"]
     }
+---
 
 🌍 Leadership & Community
 	•	Vice Ambassador & Project Lead — Huawei Student Developers
 	•	Organization Team Member — Google Developer Groups on Campus Haliç
-
-📫 Contact
-	•	📧 Email: eren.ckkr03@gmail.com
-	•	💼 LinkedIn: https://www.linkedin.com/in/eren-çakır-401abb32a
