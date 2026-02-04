@@ -32,4 +32,4 @@ class AboutMe:
 
 📫 **Contact**
 - 📧 Email: eren.ckkr03@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/eren-çakır-401abb32a
+- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eren%20%C3%87ak%C4%B1r-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eren-çakır-401abb32a)
