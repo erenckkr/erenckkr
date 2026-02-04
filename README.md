@@ -11,7 +11,7 @@ Selam, ben **Eren**. Şu anda **Digital Brain Technologies** şirketinde **Platf
 
 ```javascript
 const eren_cakir = {
-    current_focus: "Building End-to-end ML Pipelines & Cloud Infra",
+    current_focus: "Backend Testing Methods",
     daily_drivers: ["Python", "SQL", "C++", "Shell"],
     education: ["Haliç University", "Ecole 42"],
     hobbies: ["Open Source Contributing", "Producing Music", "Coffee ☕"]
