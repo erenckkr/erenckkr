@@ -1,3 +1,5 @@
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2)](https://www.linkedin.com/in/eren-çakır-401abb32a)
+
 # 👋 Hi, I'm Eren
 
 ```python
@@ -24,12 +26,6 @@ class AboutMe:
         "ml": ["Scikit-Learn", "PyTorch", "TensorFlow", "MLflow"],
         "cloud_devops": ["AWS", "Docker", "Terraform", "Ansible"]
     }
-```
-
-🌍 **Leadership & Community**
-- Vice Ambassador & Project Lead — Huawei Student Developers
-- Organization Team Member — Google Developer Groups on Campus Haliç
-
-📫 **Contact**
-- 📧 Email: eren.ckkr03@gmail.com
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/eren-çakır-401abb32a)
+🌍 Leadership & Community
+	•	Vice Ambassador & Project Lead — Huawei Student Developers
+	•	Organization Team Member — Google Developer Groups on Campus Haliç
