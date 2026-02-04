@@ -18,8 +18,24 @@ const eren_cakir = {
 };
 ```
 
-🛠️ Tech Stack & Tools
-<div align="center"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpy,cpp,c,sql,bash,aws,docker,k8s,terraform,ansible" />
+💻 What I Use
+
+Frontend
+
+Backend
+
+DevOps & Tools
 
 
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dlinux,git,mysql,kafka,spark,pytorch,tensorflow,pandas,sklearn" /> </div>
+⸻
+
+📬 Get in Touch
+
+<a href="mailto:eren.ckkr03@gmail.com">
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail" />
+</a>
+
+
+<a href="https://www.linkedin.com/in/eren-çakır-401abb32a/">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin" />
+</a>
