@@ -18,24 +18,32 @@ const eren_cakir = {
 };
 ```
 
-💻 What I Use
+## 💻 What I Use
 
-Frontend
+### Backend
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java)
 
-Backend
+### Data / ML
+![Apache Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka)
+![Apache Spark](https://img.shields.io/badge/Spark-000000?style=for-the-badge&logo=apachespark)
+![Airflow](https://img.shields.io/badge/Airflow-000000?style=for-the-badge&logo=apacheairflow)
+![MLflow](https://img.shields.io/badge/MLflow-000000?style=for-the-badge&logo=mlflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch)
 
-DevOps & Tools
+### DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-000000?style=for-the-badge&logo=terraform)
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible)
 
+---
 
-⸻
+## 📬 Get in Touch
 
-📬 Get in Touch
+📧 **Email:** eren.ckkr03@gmail.com  
 
-<a href="mailto:eren.ckkr03@gmail.com">
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail" />
-</a>
-
-
-<a href="https://www.linkedin.com/in/eren-çakır-401abb32a/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin" />
+<a href="https://www.linkedin.com/in/eren-çakır-401abb32a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
