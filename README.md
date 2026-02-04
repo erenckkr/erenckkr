@@ -16,6 +16,7 @@ const eren_cakir = {
     education: ["Haliç University", "Ecole 42"],
     hobbies: ["Open Source Contributing", "Producing Music", "Coffee ☕"]
 };
+```
 
 🛠️ Tech Stack & Tools
 <div align="center"> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpy,cpp,c,sql,bash,aws,docker,k8s,terraform,ansible" />
