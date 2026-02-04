@@ -12,7 +12,7 @@ Selam, ben **Eren**. Şu anda **Digital Brain Technologies** şirketinde **Platf
 ```javascript
 const eren_cakir = {
     current_focus: "Backend Testing Methods",
-    daily_drivers: ["Python", "SQL", "C++", "Shell"],
+    daily_drivers: ["Python", "SQL", "C", "C++", "Shell"],
     education: ["Haliç University", "Ecole 42"],
     hobbies: ["Open Source Contributing", "Producing Music", "Coffee ☕"]
 };
